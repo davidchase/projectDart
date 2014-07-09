@@ -1,0 +1,5 @@
+name: todo
+version: 0.0.1
+author: David Annopolsky <dannopolsky@freepeople.com>
+dependencies:
+    browser: any
