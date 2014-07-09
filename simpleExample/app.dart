@@ -6,6 +6,7 @@ import 'dart:async' show Future;
 // Top level variable
 ButtonElement createMonster;
 
+
 class Monster {
    // Static belongs to the class not the instance
    // final means it cannot be changed
